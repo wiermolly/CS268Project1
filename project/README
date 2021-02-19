@@ -1,0 +1,52 @@
+Website Breakdown
+
+10 pages
+
+1 - [Homepage] Mission statement of website 
+2 - [About] About the man Kevin 
+3 - [Fishing] Signup and description
+4 - [Camping] Signup and description
+5 - [Astronomy] Signup and description include pictures from Kevin
+6 - [Knots] Signup for knot lessons 
+7 - [Guided Hike] Option to choose difficult of hike. Beginner to novice/expert KEVIN level 
+8 - [Kevin's Basic Supplies] Show supplies with length of time they last and use cases of each
+9 - [Donate Here] - donation to kevin 
+10 - [Kevin wrote a book] - short story about footprints make cover art in photoshop
+
+
+Facts about Kevin: 
+Nature color scheme 3 maybe 5? - colorscheme3.jpg
+Worked a Zoo in education department description
+
+
+
+
+
+|Item to Include|
++ Headers       
++ 10 pages
++ Navigation link
++ Reactive web design
++ Consistent design
++ Global stylesheet
++ Individual page stylesheet
++ Images
++ Alt Tags for Images
++ Declare the fuggen favicon per page
++ File directories for resources
++ Pass W3C and CSS Validator error checker
++ Put on Git
++ lowercase file names
++ Content neatly alligned 
++ Use Two fonts (Helvetica and Sans Sarif)
++ Include to external websites (Use affiliate links)
++ Use meaningful names
++ Consistent navbar
++ Include header and footer
++ Implement flexboxes/grids
+
+
+
+
+
+
