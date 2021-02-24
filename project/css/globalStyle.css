@@ -1,5 +1,6 @@
 body {
   background-color: #8b9978;
+
 }
 h1 {
   background-color: #1b372b;
@@ -7,7 +8,37 @@ h1 {
   font-size: 50;
   font-family: Arial, Helvetica, sans-serif;
   text-align: center;
+  margin: 0;
+  top: 0;
 }
 p {
   color: black;
+}
+
+.sidenav {
+  background-color: #40312e;
+  height: 100%;
+  width: 12%;
+  position: fixed;
+  float: left;
+  color: white;
+  font-size: larger;
+  text-align: left;
+  padding: 1%;
+}
+
+ol {
+  list-style-type: none;
+  text-align: left;
+  margin: 0;
+  padding-left: 0;
+}
+
+li {
+  color: white;
+  padding: 5%;
+}
+
+a {
+  color: white;
 }
