@@ -1,9 +1,13 @@
 body {
-    background-color: powderblue;
-  }
-  h1 {
-    color: blue;
-  }
-  p {
-    color: red;
-  }
+  background-color: #8b9978;
+}
+h1 {
+  background-color: #1b372b;
+  color: white;
+  font-size: 50;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+p {
+  color: black;
+}
