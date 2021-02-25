@@ -6,13 +6,15 @@ h1 {
   background-color: #1b372b;
   color: white;
   font-size: 50;
-  font-family: Arial, Helvetica, sans-serif;
   text-align: center;
   margin: 0;
   top: 0;
 }
 p {
   color: black;
+  float: right;
+  text-align: left;
+  font-size: larger;
 }
 
 .sidenav {
@@ -41,4 +43,10 @@ li {
 
 a {
   color: white;
+}
+
+img {
+  margin-left: 15%;
+  margin-top: 1%;
+  border: 10px solid #8a4943;
 }
