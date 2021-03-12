@@ -50,3 +50,7 @@ img {
   margin-top: 1%;
   border: 10px solid #8a4943;
 }
+
+.bitcoin{
+  transform: translate(100px, 20px);
+}
