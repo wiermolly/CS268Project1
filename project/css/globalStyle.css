@@ -1,6 +1,5 @@
 body {
   background-color: #8b9978;
-
 }
 h1 {
   background-color: #1b372b;
@@ -29,7 +28,7 @@ p {
   padding: 1%;
 }
 
-ol {
+ul {
   list-style-type: none;
   text-align: left;
   margin: 0;
