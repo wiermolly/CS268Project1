@@ -44,16 +44,11 @@ a {
   color: white;
 }
 
-img {
+.imgGlobal {
   margin-left: 15%;
   margin-top: 1%;
   border: 10px solid #8a4943;
 }
-
-.bitcoin{
-  transform: translate(40px, 2px);
-}
-
 
 .book {
       align-content: center;
