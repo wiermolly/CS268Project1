@@ -53,3 +53,15 @@ img {
 .bitcoin{
   transform: translate(40px, 2px);
 }
+
+
+.book {
+      align-content: center;
+      max-width: 100%;
+      display: flex;
+      height: 50%;  
+      flex-grow: initial;
+
+      
+
+  }
