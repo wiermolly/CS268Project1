@@ -64,7 +64,7 @@ body{
     filter: blur(3px);
 }
 .card h1{
-    color: whitesmoke;
+    color: black;
     letter-spacing: 1px;
     margin: 0px;
 }
