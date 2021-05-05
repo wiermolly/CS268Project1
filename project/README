@@ -56,3 +56,30 @@ Hex
 #4c7160  - Middle like old Italian Alfa Romeo color
 #8b9978  - Like Really light Olive
 #1b372b  - Too dark of a green color
+
+for db stuff open xampp and create a database called project and run the following
+
+CREATE TABLE lessons (
+	Id INT(4) NOT NULL AUTO_INCREMENT,
+    name VARCHAR(20),
+    PRIMARY KEY (Id)
+);
+
+CREATE TABLE appointments (
+	Id INT(4) NOT NULL AUTO_INCREMENT,
+    lesson_id INT(4),
+    fname VARCHAR(30), 
+    lname VARCHAR(40), 
+    email VARCHAR(50), 
+    phone VARCHAR(10), 
+    num_people INT(4), 
+    day DATE,
+    FOREIGN KEY (lesson_id) REFERENCES lessons(Id),
+    PRIMARY KEY (Id)
+);
+
+INSERT INTO lessons (name) VALUES ("astronomy");
+INSERT INTO lessons (name) VALUES ("camping");
+INSERT INTO lessons (name) VALUES ("bait fish");
+INSERT INTO lessons (name) VALUES ("fly fish");
+INSERT INTO lessons (name) VALUES ("hiking");
